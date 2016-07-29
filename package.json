@@ -1,5 +1,5 @@
 {
-  "name": "hexo-generator-share-buttons",
+  "name": "hexo-tag-share-buttons",
   "version": "0.1.0",
   "description": "Hexo plugin: Put SNS share buttons on your posts",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/laysakura/hexo-generator-share-buttons.git"
+    "url": "git://github.com/laysakura/hexo-tag-share-buttons.git"
   },
   "keywords": [
     "hexo",
@@ -19,7 +19,7 @@
   "author": "Sho Nakatani",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/laysakura/hexo-generator-share-buttons/issues"
+    "url": "https://github.com/laysakura/hexo-tag-share-buttons/issues"
   },
-  "homepage": "https://github.com/laysakura/hexo-generator-share-buttons"
+  "homepage": "https://github.com/laysakura/hexo-tag-share-buttons"
 }
