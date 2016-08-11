@@ -6,7 +6,7 @@ var sbSocialsDefault = [
 var sbConfig = hexo.config.share_buttons || {},
     sbSocials = sbConfig.socials || sbSocialsDefault;
 
-hexo.extend.helper.register('share_button', function (options) {
+hexo.extend.helper.register('share_buttons', function (options) {
     var postUrl = options.postUrl;
 
 return '<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">' +
